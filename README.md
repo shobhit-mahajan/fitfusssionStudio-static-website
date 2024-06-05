@@ -15,3 +15,5 @@ Technologies Used:
 HTML5: The structure of the website is built using HTML5, providing a semantic and accessible foundation.
 CSS3: Styling is handled with CSS3, including flexbox and media queries to ensure responsiveness.
 
+Demo : https://fitfussionstudio.tiiny.site/
+
