@@ -9,6 +9,8 @@ Responsive Design: The website is fully responsive, ensuring it looks great on a
 Clean and Modern Layout: Utilizes a clean and modern design aesthetic to provide an intuitive user experience.
 Interactive Elements: Includes interactive elements such as a booking form and feedback section to enhance user engagement.
 Optimized for Performance: The site is optimized for fast loading times and efficient performance.
+
+
 Technologies Used:
 HTML5: The structure of the website is built using HTML5, providing a semantic and accessible foundation.
 CSS3: Styling is handled with CSS3, including flexbox and media queries to ensure responsiveness.
